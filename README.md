@@ -1,7 +1,7 @@
 # camera-movement-gifs
 
 Animated GIF scene libraries for AI camera movement analysis experiments.
-Each folder corresponds to one source video. GIFs are auto-generated from model-detected scene cut points using [`preview_cuts.py`](https://github.com/haejinjo/camera-movement-gifs).
+Each folder corresponds to one source video. GIFs are auto-generated from model-detected scene cut points using [`preview_cuts.py`](preview_cuts.py).
 
 ---
 
